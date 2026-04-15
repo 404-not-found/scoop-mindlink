@@ -1,12 +1,12 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.2",
   "description": "Give your AI a brain \u2014 session memory, cross-session sync, cross-agent context",
   "homepage": "https://github.com/404-not-found/mindlink",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/404-not-found/mindlink/releases/download/v2.0.0/cli-win-x64.exe",
-      "hash": "163f0149c5e53a1cf0e398a5bff514703e5129e67ebe2eef15b9dbecd1b0931c",
+      "url": "https://github.com/404-not-found/mindlink/releases/download/v2.0.2/cli-win-x64.exe",
+      "hash": "be4e6dd1254409c1ac93670e6e26c4649e647f4e30abadea276bb32ef93e591c",
       "bin": [
         [
           "cli-win-x64.exe",
